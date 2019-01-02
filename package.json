@@ -1,0 +1,17 @@
+{
+  "name": "dijkstra-doodle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "gml2json": "^1.0.0",
+    "graphology": "^0.14.1",
+    "graphology-shortest-path": "^1.0.4"
+  }
+}
